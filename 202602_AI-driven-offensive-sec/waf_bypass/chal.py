@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/", methods=["GET"])
 def index():
-    return "<h1>Welcome to CTF Challenge!</h1><p>You have to find some endpoints.</p>"
+    return "<h1>Welcome to XSS Challenge!</h1><p>You have to find some endpoints.</p>"
 
 @app.route("/share", methods=["GET", "POST"])
 def share():
