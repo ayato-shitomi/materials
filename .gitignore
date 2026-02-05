@@ -1,0 +1,103 @@
+############################
+# OS / Editor
+############################
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+############################
+# Python
+############################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+.env
+.env.*
+!.env.example
+
+venv/
+.venv/
+ENV/
+env/
+pip-wheel-metadata/
+
+############################
+# Build / Distribution
+############################
+build/
+dist/
+*.egg-info/
+.eggs/
+
+############################
+# Logs
+############################
+*.log
+logs/
+log/
+
+############################
+# Test / Coverage
+############################
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+############################
+# Runtime / Temp
+############################
+*.pid
+*.sock
+*.sqlite
+*.db
+*.db-journal
+
+############################
+# Security / Secrets（最重要）
+############################
+*.pem
+*.key
+*.crt
+*.pfx
+*.p12
+
+secrets/
+secret/
+credentials/
+config.local.*
+settings.local.*
+
+############################
+# Docker（公開リポジトリ安全）
+############################
+.env.docker
+docker-compose.override.yml
+
+############################
+# Node（フロント混在時）
+############################
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+############################
+# Misc
+############################
+*.orig
+*.rej
+*.claude

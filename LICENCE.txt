@@ -1,0 +1,25 @@
+Educational Use Only License
+
+Copyright (c) 2026 Ayato Shitomi
+
+Permission is hereby granted to use this software and associated materials
+(the "Software") solely for educational purposes, subject to the following conditions:
+
+1. Definition of Educational Purpose
+Educational purposes include learning, research, experimentation, training,
+and non-commercial activities related to information security, programming,
+computer science, or similar academic fields.
+
+2. Prohibited Uses
+The following uses are strictly prohibited:
+- Any commercial use, direct or indirect
+- Use in production, operational, or third-party environments
+- Use for illegal activities, including unauthorized access or attacks
+- Redistribution of the Software, with or without modification
+
+3. Disclaimer
+The Software is provided "AS IS", without warranty of any kind.
+The author shall not be liable for any damages arising from the use of this Software.
+
+4. Termination
+Any violation of these terms will result in immediate termination of this license.
